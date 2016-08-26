@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="27400bfd-f9d4-4cd2-9d14-dd00000ed711" solutionId="27400bfd-f9d4-4cd2-9d14-dd00000ed711" resetWebServer="false" name="Export2Garmin" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="db8b07f3-6158-4bda-80da-7a5d65e42ca0" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="a070cf17-774d-4e1f-a864-7e8979f72550" />
+    <projectItemReference itemId="ef15f466-5f88-437b-8799-1b37cfe12988" />
+  </projectItems>
+</package>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction
+    Id="ExportGPXAction"
+    Title="Export to Garmin GPS"
+    Location="ViewToolbar"
+    RegistrationId="109"
+    RegistrationType="List"
+    ImageUrl="_layouts/images/Export2Garmin/map32x32.png"
+>
+    <UrlAction Url="javascript:function ExportGPX(){var site='{SiteUrl}';var list='{ListId}';var view=ctx.view;window.open(site + '/_layouts/Export2Garmin/ExportGPXAction.aspx?List=' + list + '&amp;View=' + view, 'Download' ,'resizable=0,width=250,height=250' );}ExportGPX();"/>
+
+  </CustomAction>
+</Elements>

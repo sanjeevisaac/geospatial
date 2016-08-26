@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="7278f661-fec8-47f9-bd19-0b6870bef7d1" solutionId="7278f661-fec8-47f9-bd19-0b6870bef7d1" resetWebServer="false" name="GeoPhoto" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <customAssembly location="DotLiquid.dll" deploymentTarget="GlobalAssemblyCache" sourcePath="\\vmware-host\Shared Folders\netsavants\Downloads\DotLiquid v1.7.0\NET35\DotLiquid.dll" />
+  </assemblies>
+  <features>
+    <featureReference itemId="3e94aa51-67c7-4b65-8b32-a1f961945380" />
+  </features>
+</package>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" Id="3a42f848-5402-4b66-8900-984291936aee" solutionId="3a42f848-5402-4b66-8900-984291936aee" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" name="GooglePhotoMap">
+    <features>
+        <featureReference itemId="7ffd50f3-70ce-48b8-b98c-c5da74ac5000" />
+    </features>
+</package>

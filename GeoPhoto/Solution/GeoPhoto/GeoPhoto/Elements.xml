@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <!-- Parent ContentType: Picture (0x010102) -->
+  <ContentType ID="0x01010200A9200C1B209B4ED1993E0F638BFBA5F1" Name="GeoPhoto" Group="Custom Content Types" Description="Adds Lat/Long co-ordinates to a Picture" Inherits="TRUE" Version="0">
+    <FieldRefs>
+      <FieldRef ID="{32360f43-c41d-4030-86a3-494c94739b69}" DisplayName="Latitude" Required="TRUE" Name="Latitude" />
+      <FieldRef ID="{30123eaa-ae37-49e1-ba99-fffced293e18}" DisplayName="Longitude" Required="TRUE" Name="Longitude" />
+    </FieldRefs>
+  </ContentType>
+</Elements>
